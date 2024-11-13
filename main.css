@@ -20,3 +20,14 @@ main {
     padding: 10px;
 }
 
+.nav {
+    background-color: rgb(255, 246, 116);
+}
+
+.main-content {
+    background-color: rgb(255, 247, 117);
+}
+
+.sidebar {
+    background-color: rgb(254, 245, 116);
+}
