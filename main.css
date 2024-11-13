@@ -7,8 +7,8 @@ body {
 }
 
 header, footer {
-    background-color: #7b0080;
-    color: #000000;
+    background-color: #333;
+    color: #fff;
     text-align: center;
     line-height: 50px;
 }
@@ -21,13 +21,13 @@ main {
 }
 
 .nav {
-    background-color: rgb(255, 246, 116);
+    background-color: #dcdcdc;
 }
 
 .main-content {
-    background-color: rgb(255, 247, 117);
+    background-color: #bfbfbf;
 }
 
 .sidebar {
-    background-color: rgb(254, 245, 116);
+    background-color: #dcdcdc;
 }
